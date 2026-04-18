@@ -4,7 +4,7 @@ function App() {
       <h1>Proyecto de Motos</h1>
 
       <p>Bienvenido a nuestra página de motos.</p>
-
+      <p>Paula Lozano y Lorena Vaca</p>
       <h2>Modelos disponibles</h2>
 
       <ul>
